@@ -1,3 +1,11 @@
+/*======================================
+   STAT 717: SAS Statistical Analysis
+    Spring 2022
+   Description: This script performs
+   statistical analysis using PROC FREQ
+   to analyze categorical data.
+========================================*/
+
 title1 'STAT 717 SAS EXAMPLE';
 data set1;
   input COUNTRY $ SEX $ COUNT;
