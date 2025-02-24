@@ -1,6 +1,7 @@
 # Categorical_Data_Analysis
 
 SAS Statistical Analysis (STAT 717)
+Spring 2022
 
 Project Overview:
 
